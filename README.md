@@ -10,3 +10,7 @@ This project aims to become the most in-depth question & answer repository on [A
 * [Governance](Questions/Governance/README.md) (25 questions)
 * [Identity](Questions/Identity/README.md) (45 questions)
 * [Integration](Questions/Integration/README.md) (27 questions)
+
+#### Flashcards
+
+This repository features flashcards that can be used with any application that supports the `.apkg` deck format (such as [Anki](https://ankiweb.net)). Download the latest deck from the [Releases](https://github.com/devsplit/aws/releases/) page and import the file inside your app.
