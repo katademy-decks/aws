@@ -2,6 +2,8 @@ This project aims to become the most in-depth question & answer repository on [A
 
 ### Table of contents
 
+* [Data](https://katademy.github.io/aws-faq/data)
+
 * [Compute](Questions/Compute/README.md) (90 questions)
 * [Networking](Questions/Networking/README.md) (143 questions)
 * [Storage](Questions/Storage/README.md) (206 questions)
