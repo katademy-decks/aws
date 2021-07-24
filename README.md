@@ -8,6 +8,7 @@ This project aims to become the most in-depth question & answer repository on [A
 * Security:
   * [Certificate Manager](https://katademy.github.io/aws-faq/certificate-manager)
   * [Cloud Directory](https://katademy.github.io/aws-faq/cloud-directory)
+  * [CloudHSM](https://katademy.github.io/aws-faq/cloudhsm)
 
 * [Compute](Questions/Compute/README.md) (90 questions)
 * [Networking](Questions/Networking/README.md) (143 questions)
