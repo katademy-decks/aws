@@ -17,6 +17,7 @@ This project aims to become the most in-depth question & answer repository on [A
   * [Macie](https://katademy.github.io/aws-faq/macie)
   * [MFA](https://katademy.github.io/aws-faq/mfa)
   * [Shield](https://katademy.github.io/aws-faq/shield)
+  * [SSO](https://katademy.github.io/aws-faq/sso)
 
 * [Compute](Questions/Compute/README.md) (90 questions)
 * [Networking](Questions/Networking/README.md) (143 questions)
