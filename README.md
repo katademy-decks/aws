@@ -11,6 +11,7 @@ This project aims to become the most in-depth question & answer repository on [A
   * [CloudHSM](https://katademy.github.io/aws-faq/cloudhsm)
   * [CloudTrail](https://katademy.github.io/aws-faq/cloudtrail)
   * [Cognito](https://katademy.github.io/aws-faq/cognito)
+  * [IAM](https://katademy.github.io/aws-faq/iam)
 
 * [Compute](Questions/Compute/README.md) (90 questions)
 * [Networking](Questions/Networking/README.md) (143 questions)
