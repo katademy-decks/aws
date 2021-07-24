@@ -15,6 +15,7 @@ This project aims to become the most in-depth question & answer repository on [A
   * [Inspector](https://katademy.github.io/aws-faq/)
   * [KMS](https://katademy.github.io/aws-faq/kms)
   * [Macie](https://katademy.github.io/aws-faq/macie)
+  * [MFA](https://katademy.github.io/aws-faq/mfa)
 
 * [Compute](Questions/Compute/README.md) (90 questions)
 * [Networking](Questions/Networking/README.md) (143 questions)
