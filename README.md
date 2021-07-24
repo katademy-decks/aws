@@ -2,6 +2,7 @@ This project aims to become the most in-depth question & answer repository on [A
 
 ### Table of contents
 
+* [CloudFront](https://katademy.github.io/aws-faq/cloudfront)
 * [Data](https://katademy.github.io/aws-faq/data)
 * [ELB](https://katademy.github.io/aws-faq/elb)
 * [Monitoring](https://katademy.github.io/aws-faq/monitoring)   
