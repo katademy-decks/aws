@@ -4,6 +4,7 @@ This project aims to become the most in-depth question & answer repository on [A
 
 * [Data](https://katademy.github.io/aws-faq/data)
 * [ELB](https://katademy.github.io/aws-faq/elb)
+* [Monitoring](https://katademy.github.io/aws-faq/monitoring)
 
 * [Compute](Questions/Compute/README.md) (90 questions)
 * [Networking](Questions/Networking/README.md) (143 questions)
